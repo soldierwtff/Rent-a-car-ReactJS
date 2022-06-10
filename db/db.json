@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "name": "fdsfddasdasd",
+      "email": "email@test.commmm",
+      "phone": "fdfads",
+      "id": "bsKCtov"
+    },
+    {
+      "name": "Toshe",
+      "email": "toshe@abv.comm",
+      "id": "U6Njkhp",
+      "phone": "todorphone"
+    },
+    {
+      "name": "Todor Ivanov",
+      "email": "tosheto0@abv.bg",
+      "phone": "088",
+      "id": "5GmNDzA"
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "BMW",
+      "model": "M55555asd",
+      "year": "1999",
+      "fuel": "Diesel",
+      "seats": "2",
+      "price": "15",
+      "type": "estateasdae",
+      "quantity": 0,
+      "id": "1"
+    },
+    {
+      "brand": "Audi",
+      "model": "A4",
+      "year": "2001",
+      "fuel": "Diesel",
+      "seats": "4",
+      "price": "45",
+      "type": "Estatee",
+      "quantity": 12,
+      "id": "wcEcHBC"
+    },
+    {
+      "brand": "Merc",
+      "model": "w201",
+      "year": "2001",
+      "fuel": "Diesel gas",
+      "seats": "7",
+      "price": "100",
+      "type": "SUV",
+      "quantity": 3,
+      "id": "C_KAedg"
+    },
+    {
+      "brand": "Toyoda",
+      "model": "avensis",
+      "year": "19092",
+      "fuel": "DIesel",
+      "seats": "6",
+      "price": "21",
+      "type": "sedan",
+      "quantity": 1,
+      "id": "Tm0oZzb"
+    },
+    {
+      "brand": "audi",
+      "model": "asd",
+      "year": "18898",
+      "fuel": "Gas",
+      "seats": "6",
+      "price": "55",
+      "type": "estate",
+      "quantity": 4,
+      "id": "9FQg7ro"
+    }
+  ]
+}
